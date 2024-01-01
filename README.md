@@ -11,4 +11,8 @@ In other words, in many cases, we are looking for an optimal coefficient for the
 
 In this article, we want to share with you the experience of using correlation for Ensembling. Knowing the correlation value of the columns, when you want to Ensembling them, is like the light of a candle in the dark, which can help you to some extent to reach your destination. This article was written in January 2024 by Somayeh Gholami and Mehran Kazeminia.
 
+- You can read this article at the following address:
+
+- https://medium.com/@mehrankazeminia/ensembling-correlation-66605cc0a06d
+
 
